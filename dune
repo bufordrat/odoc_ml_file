@@ -2,7 +2,7 @@
  (public_name odoc_ml_file)
  (name odoc_ml_file)
  (promote (until-clean))
- (libraries camlp-streams prelude mattlude lib))
+ (libraries camlp-streams prelude etude lib))
 
 (env
   (dev

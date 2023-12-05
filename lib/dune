@@ -1,6 +1,7 @@
 (library
  (name lib)
- (libraries prelude mattlude))
+ (public_name odoc_ml_file)
+ (libraries prelude etude))
 
 (env
   (dev
