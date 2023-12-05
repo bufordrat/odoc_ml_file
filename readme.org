@@ -1,0 +1,5 @@
+* =odoc_ml_file=
+
+Welcome to =odoc_ml_file=, a project in which Matt tries to attach a
+docstring to a value in an =.ml= file, not part of a signature in an
+=.mli= file.
